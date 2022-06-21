@@ -1,0 +1,51 @@
+*{
+    font-family: helvetica, Garamond, sans-serif, serif;
+}
+body {
+   background-image: url("images/charminar.jpeg"); 
+   background-color: #cccccc;
+   background-repeat: no-repeat;
+   
+}
+h1{
+    color: darkslategrey;
+    text-align: center;
+}
+span.bold {
+    color: white;
+}
+
+
+.list {
+
+    text-align: center;
+    
+    font-size: large;
+}
+
+.list1 {
+    color :black;
+    font-size: large;
+    background-color: wheat;
+    
+}
+
+body.biryani {
+    background-color: bisque;
+    background-image: none;
+}
+
+h1.biryani {
+    color: brown;
+    text-align: center;
+}
+h2.biryani {
+    text-align: center;
+}
+.img_bir {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
